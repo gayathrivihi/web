@@ -1,0 +1,13 @@
+C:\Users\gayat\source\repos\Max_Avg\Max_Avg\bin\Debug\netcoreapp3.1\Max_Avg.exe
+C:\Users\gayat\source\repos\Max_Avg\Max_Avg\bin\Debug\netcoreapp3.1\Max_Avg.deps.json
+C:\Users\gayat\source\repos\Max_Avg\Max_Avg\bin\Debug\netcoreapp3.1\Max_Avg.runtimeconfig.json
+C:\Users\gayat\source\repos\Max_Avg\Max_Avg\bin\Debug\netcoreapp3.1\Max_Avg.runtimeconfig.dev.json
+C:\Users\gayat\source\repos\Max_Avg\Max_Avg\bin\Debug\netcoreapp3.1\Max_Avg.dll
+C:\Users\gayat\source\repos\Max_Avg\Max_Avg\bin\Debug\netcoreapp3.1\Max_Avg.pdb
+C:\Users\gayat\source\repos\Max_Avg\Max_Avg\obj\Debug\netcoreapp3.1\Max_Avg.csproj.AssemblyReference.cache
+C:\Users\gayat\source\repos\Max_Avg\Max_Avg\obj\Debug\netcoreapp3.1\Max_Avg.AssemblyInfoInputs.cache
+C:\Users\gayat\source\repos\Max_Avg\Max_Avg\obj\Debug\netcoreapp3.1\Max_Avg.AssemblyInfo.cs
+C:\Users\gayat\source\repos\Max_Avg\Max_Avg\obj\Debug\netcoreapp3.1\Max_Avg.csproj.CoreCompileInputs.cache
+C:\Users\gayat\source\repos\Max_Avg\Max_Avg\obj\Debug\netcoreapp3.1\Max_Avg.dll
+C:\Users\gayat\source\repos\Max_Avg\Max_Avg\obj\Debug\netcoreapp3.1\Max_Avg.pdb
+C:\Users\gayat\source\repos\Max_Avg\Max_Avg\obj\Debug\netcoreapp3.1\Max_Avg.genruntimeconfig.cache
